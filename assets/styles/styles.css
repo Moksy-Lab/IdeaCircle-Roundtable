@@ -1,0 +1,681 @@
+<br />
+<b>Warning</b>:  Undefined variable $branding in <b>/var/www/preview/index.php</b> on line <b>119</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>/var/www/preview/index.php</b> on line <b>119</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $branding in <b>/var/www/preview/index.php</b> on line <b>120</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>/var/www/preview/index.php</b> on line <b>120</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $branding in <b>/var/www/preview/index.php</b> on line <b>121</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>/var/www/preview/index.php</b> on line <b>121</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $branding in <b>/var/www/preview/index.php</b> on line <b>122</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>/var/www/preview/index.php</b> on line <b>122</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $branding in <b>/var/www/preview/index.php</b> on line <b>123</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>/var/www/preview/index.php</b> on line <b>123</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $branding in <b>/var/www/preview/index.php</b> on line <b>124</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>/var/www/preview/index.php</b> on line <b>124</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $branding in <b>/var/www/preview/index.php</b> on line <b>125</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>/var/www/preview/index.php</b> on line <b>125</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $branding in <b>/var/www/preview/index.php</b> on line <b>126</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>/var/www/preview/index.php</b> on line <b>126</b><br />
+/*****nifty*****/
+/* #nifty(niftyNavbar) #css starts  */
+.niftyNavbar .logo {
+    max-height: 50px
+}
+
+.niftyNavbar .navbar-open-icon {
+    display: inline
+}
+
+.niftyNavbar .navbar-close-icon {
+    display: none
+}
+
+.niftyNavbar .navbar-toggler[aria-expanded="true"] .navbar-open-icon {
+    display: none
+}
+
+.niftyNavbar .navbar-toggler[aria-expanded="true"] .navbar-close-icon {
+    display: inline
+}
+
+.niftyNavbar .navbar-light .navbar-toggler {
+    color: #353935;
+    border-color: #353935;
+    font-size: 25px;
+}
+
+/* #nifty(niftyNavbar) #css ends  */
+/*****nifty*****/
+
+/*****hunch*****/
+/* #hunch(hunchHero) #css starts  */
+.hunchHero .DescriptionHeading {
+    font-size: 34px;
+    color: #353935
+}
+
+.hunchHero .DescriptionPara {
+    color: #353935;
+    font-size: 18px
+}
+
+.hunchHero .descriptionImage img {
+    margin-top: -30px
+}
+
+.hunchHero .searchBtn {
+    background-color: #353935;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold
+}
+
+/* #hunch(hunchHero) #css ends  */
+/*****hunch*****/
+
+/*****fortune*****/
+/* #fortune(fortuneFeature) #css starts  */
+.fortuneFeature h2 {
+    font-size: 30px;
+}
+.fortuneFeature  p{
+    margin-top: 15px;
+}  
+
+/* #fortune(fortuneFeature) #css ends  */
+/*****fortune*****/
+
+/*****pneal*****/
+/* #pneal(pnealPortfolio) #css starts  */
+.pnealPortfolio .caseStudyone {
+    background-image: url(https://images.moksy.com/templates/default/casestudies/website-case-study.png);
+    background-size: cover;
+    background-position: center center;
+    min-height: 300px
+}
+
+.pnealPortfolio .caseStudytwo {
+    background-image: url(https://images.moksy.com/templates/default/casestudies/app-case-study.png);
+    background-size: cover;
+    background-position: center center;
+    min-height: 300px
+}
+
+.pnealPortfolio .badge {
+    background-color: #F6FFF2;
+    color: #76A675;
+    font-size: 15px
+}
+
+.pnealPortfolio .lead {
+    font-size: 30px
+}
+
+.pnealPortfolio .btn {
+    background-color: #353935;
+    font-weight: bold;
+    color: #fff;
+}
+
+/* #pneal(pnealPortfolio) #css ends  */
+/*****pneal*****/
+
+/*****elvix*****/
+  /* #elvix(elvixEvents) #css starts  */
+  .elvixEvents a:hover {
+    text-decoration: none;
+}
+.elvixEvents .timing{
+    color: #353535;
+    font-weight: 600;
+    font-size: 1.4rem;
+}
+.elvixEvents .width{
+    width: 200px;
+}
+.elvixEvents .margin{
+    margin: 20px 0
+}
+.elvixEvents .h4{
+    color: #02d1a1
+}
+  /* #elvix(elvixEvents) #css ends  */
+  /*****elvix*****/
+
+/*****tamara*****/
+/* #tamara(tamaraTeam) #css starts */
+.tamaraTeam h1{
+    text-align: center;
+}
+.tamaraTeam .our-team{
+    text-align: center;
+    margin-bottom: 100px;
+    z-index: 1;
+    position: relative;
+}
+.tamaraTeam .our-team .pic{
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+}
+.tamaraTeam .our-team .pic:after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: rgba(0,0,0,0.7);
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 0.5s ease 0s;
+}
+.tamaraTeam .our-team:hover .pic:after{
+    opacity: 1;
+}
+.tamaraTeam .our-team .pic img{
+    width: 100%;
+    height: 250px; /* Fixed height */
+    object-fit: cover; /* Ensures the image maintains aspect ratio and covers the area */
+}
+.tamaraTeam .our-team .social{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    opacity: 0;
+    position: absolute;
+    top: 45%;
+    left: 0;
+    z-index: 1;
+    transition: all 0.5s ease 0s;
+}
+.tamaraTeam .our-team:hover .social{
+    opacity: 1;
+}
+.tamaraTeam .our-team .social li{
+    display: inline-block;
+}
+.tamaraTeam .our-team .social li a{
+    display: block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    font-size: 15px;
+    color: #fff;
+    margin-right: 10px;
+    transition: all 0.5s ease 0s;
+}
+.tamaraTeam .our-team .social li a:hover{
+    background: #fff;
+    color: #000;
+    text-decoration: none;
+}
+.tamaraTeam .our-team .team-content{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 2px dotted #ddd;
+    position: absolute;
+    bottom: -70px;
+    left: 0;
+    z-index: -1;
+    transition: all 0.5s ease 0s;
+}
+.tamaraTeam .our-team:hover .team-content{
+    border: 2px dotted #00adae;
+}
+.tamaraTeam .our-team .team-info{
+    width: 100%;
+    color: #464646;
+    position: absolute;
+    bottom: 12px;
+    left: 0;
+}
+.tamaraTeam .our-team .title{
+    font-size: 20px;
+    font-weight: 600;
+    color: #464646;
+    margin: 0 0 5px 0;
+    transition: all 0.5s ease 0s;
+}
+.tamaraTeam .our-team:hover .title{
+    color: #00adae;
+}
+.tamaraTeam .our-team .post{
+    display: block;
+    font-size: 14px;
+    color: #464646;
+}
+
+/* #tamara(tamaraTeam) #css ends */
+/*****tamara*****/
+
+/*****crodi*****/
+/* #crodi(crodiContent) #css starts  */
+.crodiContent h2 {
+    font-size: 30px;
+}
+/* #crodi(crodiContent) #css ends  */
+/*****crodi*****/
+
+/*****fuzzy*****/
+/* #fuzzy(fuzzyFilter) #css starts  */
+.fuzzyFilter .btn {
+    font-weight: bold;
+    border: 1px solid;
+    margin: 11px
+}
+
+.fuzzyFilter .btn:hover {
+    background-color: #353935;
+    color: rgb(255, 255, 255)
+}
+/* #fuzzy(fuzzyFilter) #css ends  */
+/*****fuzzy*****/
+
+/*****tofu*****/
+    /* #tofu(tofuTestimonial) #css starts  */
+    .tofuTestimonial h2 {
+        color: #333;
+        text-align: center;
+        font-weight: bold;
+        position: relative;
+        margin: 30px 0 60px;
+    }
+    .tofuTestimonial h2::after {
+        content: "";
+        width: 140px;
+        position: absolute;
+        margin: 0 auto;
+        height: 3px;
+        background: #353535;
+        left: 0;
+        right: 0;
+        bottom: -10px;
+        opacity: .8;
+    }
+    .tofuTestimonial .col-center {
+        margin: 0 auto;
+        float: none !important;
+    }
+    .tofuTestimonial .carousel {
+        margin: 50px auto;
+        padding: 0 70px;
+    }
+    .tofuTestimonial .carousel-item {
+        color: #999;
+        font-size: 14px;
+        text-align: center;
+        overflow: hidden;
+        min-height: 290px;
+    }
+    .tofuTestimonial .carousel .item .img-box {
+        width: 135px;
+        height: 135px;
+        margin: 0 auto;
+        padding: 5px;
+        border: 1px solid #ddd;
+        border-radius: 50%;
+    }
+    .tofuTestimonial .carousel .img-box img {
+        width: 100%;
+        height: 100%;
+        display: block;
+        border-radius: 50%;
+    }
+    .tofuTestimonial .carousel .testimonial {
+        padding: 30px 0 10px;
+    }
+    .tofuTestimonial .carousel .overview {	
+        font-style: italic;
+    }
+    .tofuTestimonial .carousel .overview b {
+        text-transform: capitalize;
+        color: #db584e;
+    }
+    .tofuTestimonial .carousel .carousel-control {
+        width: 40px;
+        height: 40px;
+        margin-top: -20px;
+        top: 50%;
+        background: none;
+    }
+    .tofuTestimonial .carousel-control i {
+        font-size: 68px;
+        line-height: 42px;
+        position: absolute;
+        display: inline-block;
+        color: rgba(0, 0, 0, 0.8);
+        text-shadow: 0 3px 3px #e6e6e6, 0 0 0 #000;
+    }
+    .tofuTestimonial .carousel .carousel-indicators {
+        bottom: -40px;
+    }
+    .tofuTestimonial .carousel-indicators li, .tofuTestimonial .carousel-indicators li.active {
+        width: 10px;
+        height: 10px;
+        margin: 1px 3px;
+        border-radius: 50%;
+    }
+    .tofuTestimonial .carousel-indicators li {	
+        background: #999;
+        border-color: transparent;
+        box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+    }
+    .tofuTestimonial .carousel-indicators li.active {	
+        background: #555;		
+        box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+    }
+        /* #tofu(tofuTestimonial) #css ends  */
+    /*****tofu*****/
+
+/*****steve*****/
+    /* #steve(steveSteps) #css starts */
+    .steveSteps h5{
+        font-weight: 600;
+    }
+    .steveSteps .heading{
+       color: #36dca4
+    }
+    .steveSteps .circle{
+        height: 40px; 
+        width: 40px; 
+        background-color: #36dca4
+    }
+        /* #steve(steveSteps) #css ends */
+/*****steve*****/
+
+/*****caul*****/
+/* #caul(caulCTA) #css starts  */
+.caulCTA .fdb-block {
+    padding: 7.5rem 0;
+    background-color: #FFFFFF
+}
+
+.caulCTA .btn {
+    color: #fff;
+    background-color: #353935;
+    border-color: #353935;
+}
+
+/* #caul(caulCTA) #css ends  */
+/*****caul*****/
+
+/*****floss*****/
+/* #floss(flossFooter) #css starts */
+.flossFooter a {
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s
+}
+
+.flossFooter button {
+    background: none
+}
+
+.flossFooter a:hover,
+.flossFooter a:focus {
+    color: white;
+    text-decoration: none
+}
+
+.flossFooter .form-control {
+    background: white
+}
+
+.flossFooter .form-control:focus {
+    background: #a5f0e2;
+    box-shadow: none;
+    color: black
+}
+
+.flossFooter footer {
+    background: #0B9F85
+}
+
+.flossFooter .mini-footer {
+    background: #192027;
+    text-align: center;
+    padding: 15px 0
+}
+
+.flossFooter .mini-footer p {
+    margin: 0;
+    line-height: 26px;
+    font-size: 15px;
+    color: #999
+}
+
+.flossFooter .mini-footer p a {
+    color: #fff
+}
+
+.flossFooter .mini-footer p a:hover {
+    color: #fff
+}
+
+/* #floss(flossFooter) #css ends */
+/*****floss*****/
+
+
+img.logo, footer .logo {
+    max-height: 100% !important;
+    margin: 0px !important;
+    max-width: 100% !important;
+}
+
+section#cionCTA, section.calltoaction {
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+}
+:root {
+  --primary_color: #1A484E;
+  --secondary_color: #4d7b81;
+  --tertiary_color: #00151b;
+  --default_color: #ffffff;
+  --default_text_color: #111111;
+  --accent_color: #28A745;
+  --alert_color: #DC3545;
+  --warning_color: #FFC107;
+}
+.primary_font-font {
+  font-family: Manrope;
+  font-style: normal;
+}
+.secondary_font-font {
+  font-family: Quicksand;
+  font-style: normal;
+}
+.tertiary_font-font {
+  font-family: Inter;
+  font-style: normal;
+}
+.default_font-font {
+  font-family: Helvetica;
+  font-style: normal;
+}
+body {
+  font-family: Helvetica;
+  font-size: 16px;
+  color: #111111;
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+a {
+  color: #1A484E;
+  text-decoration: none;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+a:hover {
+  color: #28A745;
+  text-decoration: underline;
+}
+ul, ol {
+  padding-left: 20px;
+  margin: 0 0 20px 0;
+}
+li {
+  margin-bottom: 10px;
+  font-family: Quicksand;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+th, td {
+  border: 1px solid #00151b;
+  padding: 10px;
+  text-align: left;
+  font-family: Quicksand;
+}
+th {
+  background-color: #4d7b81;
+  color: #111111;
+}
+.navbar {
+display: contents !important}
+section.navbar header {
+padding: 20px !important}
+section {
+margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;}
+section.banner {
+margin-top: 0px;
+    margin-bottom: 20px;
+    padding-top: 0px;
+    padding-bottom: 20px;}
+section.footer {
+margin: 0px !important; padding: 0px !important;}
+h1 {
+  font-family: Manrope;
+  font-size: 36px;
+  font-weight: bold;
+  color: #1A484E;
+  margin-bottom: 20px;
+}
+h1.branded {
+  color: var(--primary_color);
+  font-size: calc(36px * 1.2);
+}
+h1.special {
+  color: var(--accent_color);
+  font-style: italic;
+  text-transform: uppercase;
+}
+h2 {
+  font-family: Manrope;
+  font-size: 30px;
+  font-weight: semi-bold;
+  color: #4d7b81;
+  margin-bottom: 18px;
+}
+h2.branded {
+  color: var(--primary_color);
+  font-size: calc(30px * 1.2);
+}
+h2.special {
+  color: var(--accent_color);
+  font-style: italic;
+  text-transform: uppercase;
+}
+h3 {
+  font-family: Manrope;
+  font-size: 24px;
+  font-weight: medium;
+  color: #00151b;
+  margin-bottom: 16px;
+}
+h3.branded {
+  color: var(--primary_color);
+  font-size: calc(24px * 1.2);
+}
+h3.special {
+  color: var(--accent_color);
+  font-style: italic;
+  text-transform: uppercase;
+}
+p {
+  font-family: Quicksand;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #111111;
+  margin-bottom: 20px;
+}
+p.branded {
+  color: var(--primary_color);
+}
+p.special {
+  color: var(--accent_color);
+  font-weight: bold;
+}
+.navbar {
+  background-color: #1A484E;
+  font-family: Quicksand;
+  color: #111111;
+}
+.navbar.branded {
+  background-color: var(--primary_color);
+}
+.navbar.special {
+  background-color: var(--accent_color);
+}
+a {
+  color: #1A484E;
+  text-decoration: none;
+}
+a.branded {
+  color: var(--primary_color) !important;
+}
+a.special {
+  color: var(--accent_color);
+  text-decoration: underline;
+}
+.primary_button {
+  background-color: #1A484E;
+  color: #ffffff;
+}
+button.branded {
+  background-color: var(--primary_color) !important;
+}
+button.special {
+  background-color: var(--accent_color) !important;
+}
+.secondary_button {
+  background-color: #4d7b81;
+  color: #ffffff;
+}
+button.branded {
+  background-color: var(--primary_color) !important;
+}
+button.special {
+  background-color: var(--accent_color) !important;
+}
